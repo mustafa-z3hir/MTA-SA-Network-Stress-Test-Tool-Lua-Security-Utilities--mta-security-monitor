@@ -1,0 +1,4 @@
+<meta>
+    <info author="mustafa-z3hir" name="MTA Security Monitor" version="2.0" type="script" />
+    <script src="monitor.lua" type="server" />
+</meta>
