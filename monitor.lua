@@ -41,7 +41,7 @@ local function analyzeNetworkImpact()
                     resource = resourceName,
                     cpu = cpuUsage,
                     time = getTimestamp()
-                })
+})
                 
                 -- Limit history
                 if #history > settings.maxHistory then
