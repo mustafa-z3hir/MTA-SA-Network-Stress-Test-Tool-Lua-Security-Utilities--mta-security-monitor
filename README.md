@@ -1,5 +1,5 @@
 # MTA:SA Security & CPU Monitor
-
+ 
 Server performance and security monitoring tool for MTA:SA.
 
 ## Features
