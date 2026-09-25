@@ -18,5 +18,9 @@ Server performance and security monitoring tool for MTA:SA.
 1. Copy folder to `resources/`
 2. Run `/start mta-security-monitor`
 
+## Roadmap
+- [ ] Discord webhook entegrasyonu
+- [ ] Web panel arayüzü
+
 ## Author
 mustafa-z3hir
