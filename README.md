@@ -12,7 +12,7 @@ Server performance and security monitoring tool for MTA:SA.
 | Command | Permission | Description |
 |---------|------------|-------------|
 | /checkcpu | Admin | Show CPU report |
-| /clearcpu | Admin | Clear history |
+| /clearcpu | Admin | Clear history | 
 
 ## Installation
 1. Copy folder to `resources/`
